@@ -1,9 +1,0 @@
-﻿D:\DOCS\Documents\Airbus Helicopters\t$m$p$$$\ecureuil_V9.max
-D:\DOCS\Documents\Airbus Helicopters\t$m$p$$$\MAXFILES.TXT
-D:\DOCS\Documents\Airbus Helicopters\texture\new\cadrans-bon2.jpg
-D:\DOCS\Documents\Airbus Helicopters\texture\new\vitres.jpg
-D:\DOCS\Documents\Airbus Helicopters\texture\new\ecrans.jpg
-D:\DOCS\Documents\Airbus Helicopters\texture\new\btn_molette.jpg
-D:\DOCS\Documents\Airbus Helicopters\texture\new\test.jpg
-D:\DOCS\Documents\Airbus Helicopters\texture\Post_AMS_AS350_B3e_Multibloc_Instrument+Pedestal_AHTS_2.jpg
-D:\DOCS\Documents\Airbus Helicopters\texture\Post_AMS_AS350_B3e_Multibloc_Pedestal_AHTS.jpg
