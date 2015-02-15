@@ -1,0 +1,19 @@
+﻿D:\DOCS\Documents\Airbus Helicopters\Environnement\t$m$p$$$\TERRAIN-FINAL2.max
+D:\DOCS\Documents\Airbus Helicopters\Environnement\t$m$p$$$\MAXFILES.TXT
+C:\Program Files\Autodesk\3ds Max 2014\Maps\glare\glare_streaks_star_camera_filter.tif
+D:\DOCS\Documents\Airbus Helicopters\Environnement\plateforme-version-finale\textures\heliport.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\plateforme-version-finale\textures\hangar2.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\plateforme-version-finale\textures\hangar.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\LRmetal0038.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\plateforme-version-finale\textures\BuildingsTallHouse0054_2_S.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\TERRAIN-FINAL\Users\Kouadio Yves\Desktop\urbain\textures\MetalBeams0061_S.jpg
+D:\DOCS\Documents\Airbus Helicopters\texture\new\metal-texture-nuw-deviantart-free_174184.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\herbe-terrain-02.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\plateforme-version-finale\textures\BuildingsHighRise0441_5_S.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\plateforme-version-finale\textures\HighRiseGlass0012_2_M.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\plateforme-version-finale\textures\BuildingsHighRise0312_2_L.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\plateforme-version-finale\textures\stocks_61_asphalt.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\plateforme-version-finale\textures\bona.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\stocks_61_asphalt.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\Smooth_Glass_Wall_by_dimage.jpg
+D:\DOCS\Documents\Airbus Helicopters\Environnement\2013_Asphalt texture2.jpg
